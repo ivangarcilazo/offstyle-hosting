@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/offstyle-hosting/static/css/main.9746d9e2.css",
+    "main.js": "/offstyle-hosting/static/js/main.69d7ba2f.js",
+    "static/js/787.b1a8c4cc.chunk.js": "/offstyle-hosting/static/js/787.b1a8c4cc.chunk.js",
+    "index.html": "/offstyle-hosting/index.html",
+    "main.9746d9e2.css.map": "/offstyle-hosting/static/css/main.9746d9e2.css.map",
+    "main.69d7ba2f.js.map": "/offstyle-hosting/static/js/main.69d7ba2f.js.map",
+    "787.b1a8c4cc.chunk.js.map": "/offstyle-hosting/static/js/787.b1a8c4cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9746d9e2.css",
+    "static/js/main.69d7ba2f.js"
+  ]
+}
